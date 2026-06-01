@@ -11,10 +11,20 @@ To write a Python program to check whether the given number is **even** or **odd
    - Else, print `"ODD"`.
 4. End the program.
 
-## 🧾 Program
-sjnww
+## 🧾 Program:
+```
 
-## Output
-awsxmjasnu
+a = int(input())
+if a % 2 == 0:
+    print("EVEN")
+else:
+    print("ODD")
+```
 
-## Result
+## Output:
+<img width="823" height="189" alt="image" src="https://github.com/user-attachments/assets/029cf61d-2598-4813-b74c-3790e6afdfb6" />
+
+
+
+## Result:
+Thus , the program has been executed succesfully.
